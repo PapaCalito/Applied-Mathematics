@@ -15,7 +15,7 @@ rekorde(7,:) = [10000, 1577.53];   % 26:17,53Kenenisa Bekele       26.08.2005
 rekorde(8,:) = [42195, 7380.58];   % 2:03:38 Patrick Makau         25.09.2011
 
 
-% Dieser Datensatz kann auch benutzt werden...
+
 
 rekorde_fun(1,:) = [ 1000,   215];  %    3:35, Trainingslauf
 rekorde_fun(2,:) = [10000,  2624];  %   43:44, Stadtlauf Heidenheim 05.06.2012
