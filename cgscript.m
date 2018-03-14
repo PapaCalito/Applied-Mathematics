@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-% DO NOT CHANGE ANYTHING HERE!
+
 n=100 ;
 A= gallery('tridiag',n,-0.99,2,-0.99);
 A = A+A';
